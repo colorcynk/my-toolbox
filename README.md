@@ -1,30 +1,33 @@
 **This is my toolbox.**
 
 ## Package Manager
-### Windows
-- [Chocolatey](https://chocolatey.org/)
+- [Chocolatey](https://chocolatey.org/) (Win)
   - [package list](https://community.chocolatey.org/packages)
-
-### Mac
-- [Homebrew](https://brew.sh/ja/)
+- [Homebrew](https://brew.sh/ja/) (Mac)
   - [package search](https://formulae.brew.sh/)
 
 ## Web Browser
 - [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
-  - Win: `choco install googlechrome`
-  - Mac: `brew install --cask google-chrome`
 - [Brave](https://brave.com/ja/)
-  - Win: `choco install brave`
-  - Mac: `brew install --cask brave-browser`
+- [Zen Browser](https://zen-browser.app/)
 
 ## Markdown Editor
 - [Obsidian](https://obsidian.md/)
 
 ## Code Editor
-- [Cursor](https://cursor.sh/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Zed](https://zed.dev/)
+
+## Terminal
+- [Warp](https://www.warp.dev/warp-ai)
 
 ## Font 
 
 ## Utilities
-- [7-zip](https://7-zip.opensource.jp/)
+- [Logi Options+](https://www.logicool.co.jp/ja-jp/setup/mxsetup/logi-options.html)
+- [Solaar](https://github.com/pwr-Solaar/Solaar)
+
+## Repositories
+- [Archon](https://github.com/coleam00/Archon)
+- [local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
+- [sim](https://github.com/simstudioai/sim)
